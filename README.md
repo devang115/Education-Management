@@ -1,4 +1,5 @@
 # Education Management System (EMS) Frontend
+password for admin is admin,teacher is teacher and student is student
 
 ## Project Overview
 
